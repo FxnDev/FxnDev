@@ -1,4 +1,4 @@
-### Hello, welcome to my github
+### Hello, welcome to my github... My name is Rhelry but I'm known as RH.
 
 - 👨‍💻 | STUDENT FRONT-END
 - 💻 | FUTURE WEB DEVELOPER
